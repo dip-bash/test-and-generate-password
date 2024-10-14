@@ -15,7 +15,6 @@ A Python command-line tool for creating random, secure passwords and evaluating 
 
 ### Installation
 
-1. **Clone the Repository**
    ```bash
    git clone https://github.com/dip-bash/test-and-generate-password.git
    cd test-and-generate-password.git
